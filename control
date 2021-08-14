@@ -1,0 +1,9 @@
+Package: com.abdullah.twclassicfont
+Name: TWClassicFont
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Bring back old font on twitter + blue style
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
